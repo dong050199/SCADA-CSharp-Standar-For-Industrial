@@ -1,0 +1,6 @@
+C:\Users\dong0\OneDrive\Desktop\TrainingSCADA_Becamex\SCADA_Config\bin\Debug\SCADA_Config.dll
+C:\Users\dong0\OneDrive\Desktop\TrainingSCADA_Becamex\SCADA_Config\bin\Debug\SCADA_Config.pdb
+C:\Users\dong0\OneDrive\Desktop\TrainingSCADA_Becamex\SCADA_Config\obj\Debug\SCADA_Config.csproj.AssemblyReference.cache
+C:\Users\dong0\OneDrive\Desktop\TrainingSCADA_Becamex\SCADA_Config\obj\Debug\SCADA_Config.csproj.CoreCompileInputs.cache
+C:\Users\dong0\OneDrive\Desktop\TrainingSCADA_Becamex\SCADA_Config\obj\Debug\SCADA_Config.dll
+C:\Users\dong0\OneDrive\Desktop\TrainingSCADA_Becamex\SCADA_Config\obj\Debug\SCADA_Config.pdb

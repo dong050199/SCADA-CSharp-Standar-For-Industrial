@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="UpdateTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>11, 17</value>
+  </metadata>
+  <data name="sb_Motor.DebugData" xml:space="preserve">
+    <value>001,999,956,1,255,102,102,102,255,0,0,0,1,0,0,8,84,956,167,666,666,666,749,956,581,956,417,706,249,956,84,956,,1,255,127,127,127,0,255,255,255,1,0,0,116,815,351,817,357,819,363,821,370,822,376,824,383,825,389,826,396,827,403,828,410,829,416,830,423,830,430,831,437,831,443,831,450,831,457,831,478,829,499,826,520,823,540,818,560,813,580,806,599,799,618,790,637,781,655,771,672,760,689,749,705,736,721,723,736,710,751,695,765,680,778,664,790,648,802,631,813,614,823,596,832,578,841,559,848,540,855,520,860,500,865,480,869,459,872,438,873,417,874,395,873,374,872,354,869,333,865,313,860,293,855,274,848,255,841,237,832,219,823,201,813,184,802,168,790,152,778,137,765,122,751,108,736,95,721,83,705,71,689,60,672,50,655,41,637,33,618,25,599,18,580,13,560,8,540,4,520,2,499,0,478,0,457,0,435,2,414,4,394,8,373,13,353,18,334,25,314,33,296,41,277,50,259,60,242,71,225,83,209,95,193,108,178,122,164,137,150,152,137,168,124,184,113,201,102,219,92,237,83,255,75,274,67,293,61,313,55,333,50,354,47,374,44,395,42,417,42,999,42,999,353,815,351,,1,255,204,204,204,0,255,255,255,1,0,0,5,999,122,417,122,417,42,999,42,999,122,,1,255,178,178,178,0,255,255,255,1,0,0,5,999,193,417,193,417,113,999,113,999,193,,1,255,153,153,153,0,255,255,255,1,0,0,5,999,273,417,273,417,193,999,193,999,273,,1,255,204,204,204,0,255,255,255,1,0,0,99,417,457,122,751,115,744,108,737,102,729,95,721,89,713,83,705,77,697,71,689,66,680,60,671,55,662,50,653,45,644,41,635,36,626,33,616,29,607,25,597,22,588,18,578,15,568,13,558,10,548,8,538,6,528,4,518,3,508,2,497,1,487,0,477,0,467,0,457,0,435,2,414,4,394,8,373,13,353,18,334,25,314,33,296,41,277,50,259,60,242,71,225,83,209,95,193,108,178,122,164,137,150,152,137,168,124,184,113,201,102,219,92,237,83,255,75,274,67,293,61,313,55,333,50,354,47,374,44,395,42,417,42,427,42,437,42,447,43,457,44,467,45,477,47,487,48,497,50,507,52,517,55,527,57,537,60,547,63,556,66,566,70,575,74,585,78,594,82,603,86,612,91,621,96,630,101,639,106,647,111,656,117,664,123,672,129,680,135,688,142,696,148,704,155,711,162,417,457,,1,255,153,153,153,0,255,255,255,1,0,0,99,417,457,711,162,718,170,725,177,731,185,738,193,744,201,750,209,756,217,762,226,767,234,772,243,777,252,782,261,787,270,791,279,795,288,799,298,803,307,807,317,810,327,813,336,816,346,819,356,821,366,823,376,825,386,827,396,828,406,829,416,830,426,831,436,831,446,831,457,831,478,829,499,826,520,823,540,818,560,813,580,806,599,799,618,790,637,781,655,771,672,760,689,749,705,736,721,723,736,710,751,695,765,680,778,664,790,648,802,631,813,614,823,596,832,578,841,559,848,540,855,520,860,500,865,480,869,459,872,438,873,417,874,406,874,396,873,386,873,376,872,366,870,356,869,345,867,335,865,325,863,315,860,305,858,296,855,286,852,276,848,267,845,257,841,248,837,238,832,229,828,220,823,211,818,202,813,193,808,185,802,176,796,168,790,160,784,152,778,144,772,137,765,129,758,122,751,417,457,,3,255,178,178,178,0,255,255,255,1,1,0,2,42,82,749,749,,3,255,127,127,127,0,255,255,255,1,1,0,2,249,292,332,332,,3,255,51,51,51,0,255,255,255,1,1,0,2,292,332,249,250,,1,255,127,127,127,0,255,255,255,1,0,0,5,292,447,541,447,541,466,292,466,292,447,,1,255,127,127,127,0,255,255,255,1,0,0,5,346,560,471,344,487,353,362,570,346,560,,1,255,127,127,127,0,255,255,255,1,0,0,5,362,344,487,560,471,570,346,353,362,344,,3,255,204,204,204,0,255,255,255,1,1,0,2,391,431,52,52,,2,0,0,0,0,255,0,0,0,1,0,0,116,815,351,817,357,819,363,821,370,822,376,824,383,825,389,826,396,827,403,828,410,829,416,830,423,830,430,831,437,831,443,831,450,831,457,831,478,829,499,826,520,823,540,818,560,813,580,806,599,799,618,790,637,781,655,771,672,760,689,749,705,736,721,723,736,710,751,695,765,680,778,664,790,648,802,631,813,614,823,596,832,578,841,559,848,540,855,520,860,500,865,480,869,459,872,438,873,417,874,395,873,374,872,354,869,333,865,313,860,293,855,274,848,255,841,237,832,219,823,201,813,184,802,168,790,152,778,137,765,122,751,108,736,95,721,83,705,71,689,60,672,50,655,41,637,33,618,25,599,18,580,13,560,8,540,4,520,2,499,0,478,0,457,0,435,2,414,4,394,8,373,13,353,18,334,25,314,33,296,41,277,50,259,60,242,71,225,83,209,95,193,108,178,122,164,137,150,152,137,168,124,184,113,201,102,219,92,237,83,255,75,274,67,293,61,313,55,333,50,354,47,374,44,395,42,417,42,999,42,999,353,815,351,,1,255,127,127,127,0,255,255,255,1,0,0,5,900,0,999,0,999,395,900,395,900,0,,1,255,153,153,153,0,255,255,255,1,0,0,5,900,23,999,23,999,372,900,372,900,23,,1,255,178,178,178,0,255,255,255,1,0,0,5,900,66,999,66,999,329,900,329,900,66,,1,255,204,204,204,0,255,255,255,1,0,0,5,900,108,999,108,999,287,900,287,900,108,,1,255,229,229,229,0,255,255,255,1,0,0,5,900,139,999,139,999,254,900,254,900,139,,1,255,255,255,255,0,255,255,255,1,0,0,5,900,174,999,174,999,221,900,221,900,174,,2,0,0,0,0,255,0,0,0,1,0,0,5,900,0,999,0,999,395,900,395,900,0,,2,0,0,0,0,255,0,0,0,1,0,0,97,299,574,296,571,293,569,290,566,288,562,285,559,283,556,280,553,278,550,276,546,274,543,272,539,270,536,268,532,266,528,264,525,263,521,261,517,260,513,258,509,257,506,256,502,255,498,254,494,253,490,252,486,251,482,251,478,250,473,250,469,249,465,249,461,249,457,249,448,250,440,251,431,253,423,255,415,257,407,260,400,263,392,266,385,270,378,274,371,278,364,283,358,288,351,293,345,299,340,304,334,310,329,317,324,323,320,330,315,337,312,344,308,352,305,359,302,367,299,375,297,383,295,391,294,400,293,408,292,417,292,421,292,425,292,428,292,433,293,437,293,441,293,445,294,448,295,453,296,457,297,460,298,464,299,468,300,472,301,476,302,480,304,484,305,487,307,491,309,495,311,499,312,502,314,506,316,509,319,512,321,516,323,519,326,522,328,525,331,528,333,531,336,534,339,,2,0,0,0,0,255,255,255,255,1,0,0,97,534,339,537,342,540,345,543,348,545,351,548,354,550,357,552,361,555,364,557,368,559,371,561,375,563,378,565,382,566,386,568,390,569,393,571,397,572,401,573,405,575,409,576,413,577,417,578,421,578,425,579,429,580,433,580,437,581,441,581,445,581,449,581,453,581,457,581,465,581,474,580,482,578,490,576,498,574,506,571,514,569,522,565,529,562,536,558,543,553,550,549,557,544,563,539,569,534,575,528,580,522,586,516,591,509,595,502,600,496,604,488,607,481,611,474,614,466,616,458,619,450,621,442,622,434,623,425,624,417,624,412,624,408,624,404,624,400,623,396,623,392,622,388,621,384,621,379,620,375,619,372,618,368,616,364,615,360,614,356,612,352,611,349,609,345,607,341,606,338,604,334,602,331,600,327,597,324,595,321,593,317,590,314,588,311,585,308,583,305,580,302,577,299,574,,2,0,0,0,0,255,0,0,0,1,0,0,97,680,193,687,199,693,206,699,213,705,220,711,227,716,234,721,242,727,249,731,257,736,265,741,273,745,281,750,289,754,297,758,306,761,314,765,323,768,331,771,340,774,349,777,358,779,366,781,375,783,384,785,393,787,402,788,411,789,420,790,429,791,439,791,448,791,457,791,476,789,495,787,514,783,532,779,551,774,568,768,586,761,603,754,619,746,635,736,651,727,666,716,681,705,695,693,709,681,722,668,734,654,746,640,757,625,767,610,777,594,786,578,794,562,802,545,809,527,814,510,820,492,824,473,827,455,829,436,831,417,831,407,831,398,831,389,830,380,829,370,828,361,827,352,826,343,824,334,822,325,820,316,818,307,815,299,812,290,809,281,806,273,803,264,799,256,795,248,791,239,787,231,783,223,778,215,774,208,769,200,764,193,758,185,753,178,747,171,741,164,735,157,729,150,723,,2,0,0,0,0,255,255,255,255,1,0,0,97,150,723,144,716,138,709,132,702,126,695,120,688,115,681,110,673,105,665,100,658,95,650,90,642,86,634,82,625,78,617,74,609,71,600,67,592,64,583,61,575,58,566,56,557,53,548,51,539,49,530,48,521,46,512,45,503,44,494,43,484,42,475,42,466,42,457,42,438,44,419,46,400,50,382,54,364,59,346,65,329,71,312,79,295,87,279,96,263,106,248,116,233,127,219,139,206,152,193,164,180,178,168,192,157,207,146,222,137,238,128,254,119,271,112,288,105,305,99,323,94,341,90,359,86,378,84,397,83,417,82,426,82,435,83,444,83,453,84,462,85,471,86,480,88,489,90,498,92,507,94,516,96,525,99,533,102,542,105,551,108,559,112,568,115,576,119,584,124,592,128,601,132,608,137,616,142,624,147,632,152,639,157,646,163,653,168,660,174,667,180,674,186,680,193,,1,255,127,127,127,255,0,0,0,1,0,0,5,0,914,292,914,292,956,0,956,0,914,,1,255,127,127,127,255,0,0,0,1,0,0,5,541,914,831,914,831,956,541,956,541,914,</value>
+  </data>
+  <metadata name="Device.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Run.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Fault.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Mode.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Time.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
